@@ -5,7 +5,12 @@ body{
 h1{
     font-size: 45px;
     color: gray;
-    line-height: 0.8;
+    line-height: 0.6;
+}
+h2{
+    font-size: 30px;
+    color: gray;
+    margin-top: 100px;
 }
 .orange-color{
     color: orange;
@@ -20,7 +25,8 @@ h1{
     padding-left: 5%;
 }
 .half-breadth img{
-    width: 100%;
+    width: 80%;
+   
 }
 #space-fixer{
     margin-top: 100px;
@@ -36,5 +42,19 @@ h1{
     border-radius: 20px;
     color: white;
     font-weight: 400;
+    
    
+}
+#about-me-banner{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+#second-image{
+    width: 50%;
+    height: 90%;
+    margin-top: 50px;
+    margin-left: 80px;
+}
+#contact-me-spacing{
+    margin-bottom: 100px;
 }
