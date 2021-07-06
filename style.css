@@ -73,12 +73,9 @@ footer h3{
 }
 #card-container{
     display: flex;
-    margin-top: 50px;
-    margin-left: 40px;
-    margin-right: 40px;
-    margin-bottom: 100px;
+    margin: 50px 40px 100px 40px;
 }
-#recepie-container{
+.recepie-container{
     
     width: 600px;
     height: 100%;
@@ -87,7 +84,7 @@ footer h3{
     border-radius: 10px;
     background-color: white;
 }
-#recepie-container img{
+.recepie-container img{
     width: 100%;
 }
 footer{
@@ -96,4 +93,22 @@ footer{
     background-color:#0F0F0F;
     color: white;
     text-align: center;
+}
+#creative{
+    margin: 50px 40px 100px 40px;
+    border-radius: 10px;
+    background-image: url(images/shapes/Frame\ 58.jpg);
+}
+#creative-heading{
+    padding: 10px;
+    color: orange;
+}
+
+#creative-container{
+    display: flex;  
+}
+.item-container{
+    width: 25%;
+    color: tomato;
+    padding: 10px;
 }
