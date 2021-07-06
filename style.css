@@ -5,17 +5,17 @@ body{
 }
 h1{
     font-size: 45px;
-    color: gray;
+    color: #5A5A5A ;
     line-height: 0.6;
 }
 h2{
     font-size: 30px;
-    color: gray;
+    color: #5A5A5A ;
     margin-top: 100px;
 }
 footer h3{
     font-size: 25px;
-    color: gray;
+    color: #5A5A5A ;
     
 }
 .orange-color{
@@ -37,7 +37,7 @@ footer h3{
     margin-top: 100px;
 }
 #gray-color{
-    color: gray;
+    color: #5A5A5A ;
     margin-bottom: 50px;
 }
 .request-button{
