@@ -1,6 +1,7 @@
 body{
     font-family: 'Poppins', sans-serif;
     margin: 0%;
+    background-color: whitesmoke;
 }
 h1{
     font-size: 45px;
@@ -57,4 +58,30 @@ h2{
 }
 #contact-me-spacing{
     margin-bottom: 100px;
+}
+#recepie-area{
+    text-align: center;
+    
+}
+#recepie-area p{
+     line-height: 0.4;
+}
+#card-container{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 100px;
+}
+#recepie-container{
+    
+    width: 600px;
+    height: 100%;
+    margin: 10px;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: white;
+}
+#recepie-container img{
+    width: 100%;
 }
